@@ -35,6 +35,7 @@ No duplicate rows
 Renamed columns for easier access (e.g., density (km²) → density (km2))
 
 📊 Visualizations
+
 1️⃣ Distribution of 2023 Population
 
 Histogram with KDE curve
